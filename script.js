@@ -30,29 +30,35 @@ $(document).ready(function () {
     }
      let contentCards = [
         {
-            title: "Ponyta",
+            title: "Big Bulba",
         description: "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-        category: "Fire",
+        category: "Water Power",
       },
       {
-        title: "Noctowl ", 
+        title: "Pinky Rat ", 
         description:"Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
-        category: "flying",
+        category: "Star Power",
       },
       {
         title: "Gengar ",
         description: "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
-        category: "ghost",
+        category: "Ghost",
       },
       {
         title: "Pikachu",
         description: "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-        category: "Electric",
+        category: "Electric Shock",
       },
       {
-        title: "Charmander",
+        title: " Flying Charmander",
         description: "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-        category: "fire",
+        category: "Fire Power",
+      },
+
+      {
+        title: "Sonic",
+        description: "It has a preference for fast things. When it get angry, steam is said to spout from the tip of its tail,head and wings.",
+        category: "Speed",
       },
         
      ];
