@@ -1,0 +1,23 @@
+html, body{
+    background-color: rgb(10, 10, 10);
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: white;
+}
+
+#content h2{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+footer h2 {
+    border: 1px solid brown;
+    background-color:lavender;
+}
